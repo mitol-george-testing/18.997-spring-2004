@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e143d5dd-8661-046e-870e-c6a4adb063a1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Combinatorial Optimization",
+  "course_description": "In this graduate-level course, we will be covering advanced topics in combinatorial optimization. We will start with non-bipartite matchings and cover many results extending the fundamental results of matchings, flows and matroids. The emphasis is on the derivation of purely combinatorial results, including min-max relations, and not so much on the corresponding algorithmic questions of how to find such objects. The intended audience consists of Ph.D. students interested in optimization, combinatorics, or combinatorial algorithms.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.997",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
